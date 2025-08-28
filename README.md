@@ -64,7 +64,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 This project is MIT licensed — free to use and distribute.
 
 ***
-
-[11](https://github.com/topics/readme-template?o=desc&s=stars)
-[12](https://github.com/ishfulthinking/Python-Hand-Gesture-Recognition)
-[13](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/web_js)
